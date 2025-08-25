@@ -1,0 +1,20 @@
+{
+    "name": "stripe-payment",
+    "version": "1.0.0",
+    "description": "Use of SMTP (Simple Mail Transfer Protocol) which is an Internet standard communication protocol used for sending and receiving emails over the Internet.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.5.0",
+        "express": "^5.1.0",
+        "node": "^20.19.2",
+        "stripe": "^18.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
