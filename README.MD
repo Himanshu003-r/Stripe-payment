@@ -11,15 +11,4 @@
 
  ```https://stripe.com/in```
    
-### Basic of email upload through Node
 
- Use of SMTP (Simple Mail Transfer Protocol) which is an Internet standard communication protocol used for sending and receiving emails over the Internet.
-
- Use of Sendgrid ```https://app.sendgrid.com/``` and Ethereal ```https://ethereal.email/``` for SMTP 
-
-### Additional npm modules
-
- `nodemailer` for Ethereal
-
- To use `nodemailer` into your project type in terminal `npm i nodemailer` 
- then import into your project as `const nodemailer = require('nodemailer')`
