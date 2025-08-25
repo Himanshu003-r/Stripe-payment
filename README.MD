@@ -5,7 +5,7 @@
 ### Node extension
 
     This project use the stripe dependency 
-    Install it as `npm i stripe` in the terminal
+    Install it as npm i stripe in the terminal
 
 ### Check the site here
 
