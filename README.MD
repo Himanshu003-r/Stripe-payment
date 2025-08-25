@@ -1,15 +1,15 @@
 ### A stripe payment gateway
    
-    This a simple node.js project which make uses of Stripe a payment transaction site to make a payment transaction.
+ This a simple node.js project which make uses of Stripe a payment transaction site to make a payment transaction.
 
 ### Node extension
 
-    This project use the stripe dependency 
-    Install it as npm i stripe in the terminal
+ This project use the stripe dependency 
+ install it as `npm i stripe` in the terminal
 
 ### Check the site here
 
-    https://stripe.com/in
+ ```https://stripe.com/in```
    
 ### Basic of email upload through Node
 
